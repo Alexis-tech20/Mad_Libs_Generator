@@ -1,0 +1,5 @@
+{"word_descriptions": ["proper name", "adjective", "famous person", "noun", "number", "adjective",
+                        "plant", "place", "adverb","proper name", "verb", "interjection", "song title",
+                        "adjective", "adjective", "plural noun", "verb"],
+  "template": "Welcome to the University of {}.     Our {} campus was founded by {} and built in 1806.      We begin at our {} building.      This building houses {} classrooms.       To your left, the {} dormitory is visible just beyond the {}.         Our students come from all over the {} because we {} accept anyone who applies.       We will end the tour here at {} hall which houses the Admissions Office.        Feel free to {} an application.     {} folks, you’re in for a treat!        The marching band is practicing our Alma Mater, {} Notice how they march in a {} formation, it is the signature move of our University.          Financial aid is available to all {} applicants.       More information is available on our website, {}.com.     Thank you for {} with us today.",
+
